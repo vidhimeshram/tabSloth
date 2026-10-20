@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "TabSloth",
+  "version": "1.0.0",
+  "description": "Organize your browser tabs with local AI.",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_title": "Open TabSloth",
+    "default_popup": "index.html"
+  }
+}
