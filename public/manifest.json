@@ -3,7 +3,15 @@
   "name": "TabSloth",
   "version": "1.0.0",
   "description": "Organize your browser tabs with local AI.",
-  "permissions": ["tabs", "storage"],
+  "permissions": [
+    "tabs",
+    "storage",
+    "tabGroups"
+  ],
+  "host_permissions": [
+    "http://localhost:11434/*",
+    "http://127.0.0.1:11434/*"
+  ],
   "action": {
     "default_title": "Open TabSloth",
     "default_popup": "index.html"
