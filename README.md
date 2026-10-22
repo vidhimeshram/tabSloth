@@ -96,11 +96,9 @@ tabSloth/
 - [x] Categorize tabs automatically
 - [x] Detect duplicate URLs
 - [x] Build a clean extension interface
-- [ ] Integrate local AI using Ollama
-- [ ] Add AI-powered tab grouping
+- [x] Integrate local AI using Ollama
+- [x] Add AI-powered tab grouping
 - [ ] Suggest tabs that can be closed
-- [ ] Add tab search and category filters
-- [ ] Improve privacy-friendly tab organization
 
 ##  Privacy
 
